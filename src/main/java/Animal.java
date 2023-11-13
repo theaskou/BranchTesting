@@ -6,4 +6,6 @@ public abstract class Animal {
 
     public abstract boolean eatFood(String foodType);
 
+    public abstract void showMood(boolean mood);
+
 }
